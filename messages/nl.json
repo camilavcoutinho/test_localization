@@ -701,10 +701,10 @@
   "admin/orders.details.pii-setup.modal-subtitle": "Uw organisatie heeft instellingen die de weergave van persoonlijke klantgegevens tijdens het browsen van bestellingen beperken.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Kies hoe vaak u deze gegevens wilt zien:",
   "admin/orders.details.pii-setup.pii-this-order-subtitle": "Bekijk PII inhoud en wordt alleen op deze bestelling gecontroleerd.",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "Browse orders without displaying personal information.",
-  "admin/orders.details.pii-setup.pii-all-orders": "On all orders",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "View personal information and be audited on all orders.",
-  "admin/orders.details.pii-setup.modal-confirm": "Confirm",
-  "admin/orders.details.pii-setup.modal-cancel": "Cancel",
-  "admin/orders.details.trackingHint": "Delivery label"
+  "admin/orders.details.pii-setup.no-pii-subtitle": "Bekijk bestellingen zonder persoonlijke gegevens weer te geven.",
+  "admin/orders.details.pii-setup.pii-all-orders": "Op alle bestellingen",
+  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "Bekijk persoonlijke gegevens en wordt gecontroleerd op alle bestellingen.",
+  "admin/orders.details.pii-setup.modal-confirm": "Bevestig",
+  "admin/orders.details.pii-setup.modal-cancel": "Annuleren",
+  "admin/orders.details.trackingHint": "Leveringslabel"
 }
