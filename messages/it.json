@@ -700,20 +700,5 @@
   "admin/orders.details.pii-setup.modal-title": "Preferenze di informazioni di identificazione personale",
   "admin/orders.details.pii-setup.modal-subtitle": "La tua organizzazione dispone di impostazioni che limitano la visualizzazione dei dati personali dei clienti durante la navigazione degli ordini.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Scegli quanto spesso desideri visualizzare questi dati:",
-  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Visualizza il contenuto di PII e vieni verificato solo su questo ordine.",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "Naviga tra gli ordini senza visualizzare i dati personali.",
-  "admin/orders.details.pii-setup.pii-all-orders": "Su tutti gli ordini",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "Visualizza i dati personali ed esponiti all'audit su tutti gli ordini.",
-  "admin/orders.details.pii-setup.modal-confirm": "Conferma",
-  "admin/orders.details.pii-setup.modal-cancel": "Annulla",
-  "admin/orders.details.trackingHint": "Etichetta di consegna",
-  "admin/orders.print.invoices.section-title": "Invoice - {packageIndex} of {numberOfPackages}",
-  "admin/orders.print.items-to-invoice.section-title": "Items to invoice - {packageIndex} de {numberOfPackages}",
-  "admin/orders.print.order-summary.section-title": "Order",
-  "admin/orders.print.order-summary.creation-date": "Created Date",
-  "admin/orders.print.items-list.columns.product": "Product",
-  "admin/orders.print.items-list.columns.price": "Price",
-  "admin/orders.print.items-list.columns.quantity": "Qty.",
-  "admin/orders.print.items-list.columns.total-value": "Total Amount",
-  "admin/orders.print.header.title": "Order nº"
+  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Visualizza il contenuto di PII e vieni verificato solo su questo ordine."
 }

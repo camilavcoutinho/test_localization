@@ -700,20 +700,5 @@
   "admin/orders.details.pii-setup.modal-title": "Предпочитания за информация за идентифициране на лице",
   "admin/orders.details.pii-setup.modal-subtitle": "Организацията ви има настройки, които ограничават видимостта на личниата информация на клиента при разглеждане на поръчки.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Изберете колко често искате да виждате тези данни:",
-  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Вижте съдържанието, свързано с информация за идентифициране на лице, и приемете да бъде извършена проверка само на тази поръчка.",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "Разглеждане на поръчки без показване на лични данни.",
-  "admin/orders.details.pii-setup.pii-all-orders": "За всички поръчки",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "Вижте личните данни и приемете да бъде извършена проверка на всички поръчки.",
-  "admin/orders.details.pii-setup.modal-confirm": "Потвърждаване",
-  "admin/orders.details.pii-setup.modal-cancel": "Отказ",
-  "admin/orders.details.trackingHint": "Етикет за доставка",
-  "admin/orders.print.invoices.section-title": "Invoice - {packageIndex} of {numberOfPackages}",
-  "admin/orders.print.items-to-invoice.section-title": "Items to invoice - {packageIndex} de {numberOfPackages}",
-  "admin/orders.print.order-summary.section-title": "Order",
-  "admin/orders.print.order-summary.creation-date": "Created Date",
-  "admin/orders.print.items-list.columns.product": "Product",
-  "admin/orders.print.items-list.columns.price": "Price",
-  "admin/orders.print.items-list.columns.quantity": "Qty.",
-  "admin/orders.print.items-list.columns.total-value": "Total Amount",
-  "admin/orders.print.header.title": "Order nº"
+  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Вижте съдържанието, свързано с информация за идентифициране на лице, и приемете да бъде извършена проверка само на тази поръчка."
 }

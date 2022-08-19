@@ -700,20 +700,5 @@
   "admin/orders.details.pii-setup.modal-title": "Preferințe privind datele cu caracter personal identificabile",
   "admin/orders.details.pii-setup.modal-subtitle": "Organizația ta are setări care limitează vizualizarea datelor cu caracter personal la răsfoirea comenzilor.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Alege cât de des dorești să vizualizezi aceste date:",
-  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Vizualizare conținut PII și control numai pentru această comandă.",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "Răsfoiește comenzile fără a afișa date cu caracter personal.",
-  "admin/orders.details.pii-setup.pii-all-orders": "La toate comenzile",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "Vizualizare date cu caracter personal și control la toate comenzile.",
-  "admin/orders.details.pii-setup.modal-confirm": "Confirmare",
-  "admin/orders.details.pii-setup.modal-cancel": "Anulare",
-  "admin/orders.details.trackingHint": "Etichetă de livrare",
-  "admin/orders.print.invoices.section-title": "Invoice - {packageIndex} of {numberOfPackages}",
-  "admin/orders.print.items-to-invoice.section-title": "Items to invoice - {packageIndex} de {numberOfPackages}",
-  "admin/orders.print.order-summary.section-title": "Order",
-  "admin/orders.print.order-summary.creation-date": "Created Date",
-  "admin/orders.print.items-list.columns.product": "Product",
-  "admin/orders.print.items-list.columns.price": "Price",
-  "admin/orders.print.items-list.columns.quantity": "Qty.",
-  "admin/orders.print.items-list.columns.total-value": "Total Amount",
-  "admin/orders.print.header.title": "Order nº"
+  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Vizualizare conținut PII și control numai pentru această comandă."
 }

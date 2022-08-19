@@ -700,20 +700,5 @@
   "admin/orders.details.pii-setup.modal-title": "個人を特定できる情報設定",
   "admin/orders.details.pii-setup.modal-subtitle": "組織は、注文の閲覧時に顧客の個人情報の表示を制限するよう設定することができます。",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "この情報を表示する頻度を選択してください:",
-  "admin/orders.details.pii-setup.pii-this-order-subtitle": "この注文でのみ、PII コンテンツの表示と監査が行われます。",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "個人データを表示せず、注文を閲覧します。",
-  "admin/orders.details.pii-setup.pii-all-orders": "全ての注文で",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "全ての注文で、個人情報の表示と監査を行います。",
-  "admin/orders.details.pii-setup.modal-confirm": "確定",
-  "admin/orders.details.pii-setup.modal-cancel": "キャンセル",
-  "admin/orders.details.trackingHint": "配送ラベル",
-  "admin/orders.print.invoices.section-title": "Invoice - {packageIndex} of {numberOfPackages}",
-  "admin/orders.print.items-to-invoice.section-title": "Items to invoice - {packageIndex} de {numberOfPackages}",
-  "admin/orders.print.order-summary.section-title": "Order",
-  "admin/orders.print.order-summary.creation-date": "Created Date",
-  "admin/orders.print.items-list.columns.product": "Product",
-  "admin/orders.print.items-list.columns.price": "Price",
-  "admin/orders.print.items-list.columns.quantity": "Qty.",
-  "admin/orders.print.items-list.columns.total-value": "Total Amount",
-  "admin/orders.print.header.title": "Order nº"
+  "admin/orders.details.pii-setup.pii-this-order-subtitle": "この注文でのみ、PII コンテンツの表示と監査が行われます。"
 }
