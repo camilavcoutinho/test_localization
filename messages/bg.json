@@ -701,10 +701,10 @@
   "admin/orders.details.pii-setup.modal-subtitle": "Организацията ви има настройки, които ограничават видимостта на личниата информация на клиента при разглеждане на поръчки.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Изберете колко често искате да виждате тези данни:",
   "admin/orders.details.pii-setup.pii-this-order-subtitle": "Вижте съдържанието, свързано с информация за идентифициране на лице, и приемете да бъде извършена проверка само на тази поръчка.",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "Browse orders without displaying personal information.",
-  "admin/orders.details.pii-setup.pii-all-orders": "On all orders",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "View personal information and be audited on all orders.",
-  "admin/orders.details.pii-setup.modal-confirm": "Confirm",
-  "admin/orders.details.pii-setup.modal-cancel": "Cancel",
-  "admin/orders.details.trackingHint": "Delivery label"
+  "admin/orders.details.pii-setup.no-pii-subtitle": "Разглеждане на поръчки без показване на лични данни.",
+  "admin/orders.details.pii-setup.pii-all-orders": "За всички поръчки",
+  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "Вижте личните данни и приемете да бъде извършена проверка на всички поръчки.",
+  "admin/orders.details.pii-setup.modal-confirm": "Потвърждаване",
+  "admin/orders.details.pii-setup.modal-cancel": "Отказ",
+  "admin/orders.details.trackingHint": "Етикет за доставка"
 }
