@@ -706,5 +706,14 @@
   "admin/orders.details.pii-setup.pii-all-orders-subtitle": "Consultez les informations personnelles et faites l’objet d’un contrôle sur toutes les commandes.",
   "admin/orders.details.pii-setup.modal-confirm": "Confirmer",
   "admin/orders.details.pii-setup.modal-cancel": "Annuler",
-  "admin/orders.details.trackingHint": "Étiquette de livraison"
+  "admin/orders.details.trackingHint": "Étiquette de livraison",
+  "admin/orders.print.invoices.section-title": "Invoice - {packageIndex} of {numberOfPackages}",
+  "admin/orders.print.items-to-invoice.section-title": "Items to invoice - {packageIndex} de {numberOfPackages}",
+  "admin/orders.print.order-summary.section-title": "Order",
+  "admin/orders.print.order-summary.creation-date": "Created Date",
+  "admin/orders.print.items-list.columns.product": "Product",
+  "admin/orders.print.items-list.columns.price": "Price",
+  "admin/orders.print.items-list.columns.quantity": "Qty.",
+  "admin/orders.print.items-list.columns.total-value": "Total Amount",
+  "admin/orders.print.header.title": "Order nº"
 }
