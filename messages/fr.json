@@ -700,5 +700,11 @@
   "admin/orders.details.pii-setup.modal-title": "Préférences des informations d’identification personnelles",
   "admin/orders.details.pii-setup.modal-subtitle": "Votre organisation a des paramètres qui limitent la vue des données personnelles des clients lors de la navigation des commandes.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Choisissez la fréquence à laquelle vous souhaitez voir ces données :",
-  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Voir le contenu des PII et être contrôlé sur cette commande uniquement."
+  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Voir le contenu des PII et être contrôlé sur cette commande uniquement.",
+  "admin/orders.details.pii-setup.no-pii-subtitle": "Browse orders without displaying personal information.",
+  "admin/orders.details.pii-setup.pii-all-orders": "On all orders",
+  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "View personal information and be audited on all orders.",
+  "admin/orders.details.pii-setup.modal-confirm": "Confirm",
+  "admin/orders.details.pii-setup.modal-cancel": "Cancel",
+  "admin/orders.details.trackingHint": "Delivery label"
 }
