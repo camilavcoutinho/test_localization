@@ -701,10 +701,10 @@
   "admin/orders.details.pii-setup.modal-subtitle": "องค์กรของคุณมีการตั้งค่าที่จำกัดการแสดงข้อมูลส่วนตัวของลูกค้าเมื่อเรียกดูคำสั่งซื้อ",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "เลือกว่าคุณต้องการดูข้อมูลนี้บ่อยครั้งเพียงใด:",
   "admin/orders.details.pii-setup.pii-this-order-subtitle": "ดูรายละเอียด PII และตรวจสอบเฉพาะคำสั่งซื้อนี้เท่านั้น",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "Browse orders without displaying personal information.",
-  "admin/orders.details.pii-setup.pii-all-orders": "On all orders",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "View personal information and be audited on all orders.",
-  "admin/orders.details.pii-setup.modal-confirm": "Confirm",
-  "admin/orders.details.pii-setup.modal-cancel": "Cancel",
-  "admin/orders.details.trackingHint": "Delivery label"
+  "admin/orders.details.pii-setup.no-pii-subtitle": "เรียกดูคำสั่งซื้อโดยไม่แสดงข้อมูลส่วนตัว",
+  "admin/orders.details.pii-setup.pii-all-orders": "ในคำสั่งซื้อทั้งหมด",
+  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "ดูข้อมูลส่วนตัวและตรวจสอบคำสั่งซื้อทั้งหมด",
+  "admin/orders.details.pii-setup.modal-confirm": "ยืนยัน",
+  "admin/orders.details.pii-setup.modal-cancel": "ยกเลิก",
+  "admin/orders.details.trackingHint": "ป้ายกำกับการจัดส่ง"
 }
