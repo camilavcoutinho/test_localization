@@ -700,5 +700,11 @@
   "admin/orders.details.pii-setup.modal-title": "Preferințe privind datele cu caracter personal identificabile",
   "admin/orders.details.pii-setup.modal-subtitle": "Organizația ta are setări care limitează vizualizarea datelor cu caracter personal la răsfoirea comenzilor.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Alege cât de des dorești să vizualizezi aceste date:",
-  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Vizualizare conținut PII și control numai pentru această comandă."
+  "admin/orders.details.pii-setup.pii-this-order-subtitle": "Vizualizare conținut PII și control numai pentru această comandă.",
+  "admin/orders.details.pii-setup.no-pii-subtitle": "Browse orders without displaying personal information.",
+  "admin/orders.details.pii-setup.pii-all-orders": "On all orders",
+  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "View personal information and be audited on all orders.",
+  "admin/orders.details.pii-setup.modal-confirm": "Confirm",
+  "admin/orders.details.pii-setup.modal-cancel": "Cancel",
+  "admin/orders.details.trackingHint": "Delivery label"
 }
