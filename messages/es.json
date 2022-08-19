@@ -707,13 +707,13 @@
   "admin/orders.details.pii-setup.modal-confirm": "Confirmar",
   "admin/orders.details.pii-setup.modal-cancel": "Cancelar",
   "admin/orders.details.trackingHint": "Etiqueta de entrega",
-  "admin/orders.print.invoices.section-title": "Invoice - {packageIndex} of {numberOfPackages}",
-  "admin/orders.print.items-to-invoice.section-title": "Items to invoice - {packageIndex} de {numberOfPackages}",
-  "admin/orders.print.order-summary.section-title": "Order",
-  "admin/orders.print.order-summary.creation-date": "Created Date",
-  "admin/orders.print.items-list.columns.product": "Product",
-  "admin/orders.print.items-list.columns.price": "Price",
-  "admin/orders.print.items-list.columns.quantity": "Qty.",
-  "admin/orders.print.items-list.columns.total-value": "Total Amount",
-  "admin/orders.print.header.title": "Order nº"
+  "admin/orders.print.invoices.section-title": "Factura - {packageIndex} de {numberOfPackages}",
+  "admin/orders.print.items-to-invoice.section-title": "Ítems a facturar - {packageIndex} de {numberOfPackages}",
+  "admin/orders.print.order-summary.section-title": "Pedido",
+  "admin/orders.print.order-summary.creation-date": "Data do pedido",
+  "admin/orders.print.items-list.columns.product": "Produto",
+  "admin/orders.print.items-list.columns.price": "Preço",
+  "admin/orders.print.items-list.columns.quantity": "Cant.",
+  "admin/orders.print.items-list.columns.total-value": "Valor Total",
+  "admin/orders.print.header.title": "Pedido nº"
 }
