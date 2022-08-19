@@ -701,10 +701,10 @@
   "admin/orders.details.pii-setup.modal-subtitle": "Sua organização tem configurações que limitam a visualização dos dados pessoais de clientes ao navegar por pedidos.",
   "admin/orders.details.pii-setup.modal-frequency-choice-title": "Escolha com qual frequência deseja ver esses dados:",
   "admin/orders.details.pii-setup.pii-this-order-subtitle": "Ver conteúdo de PII e ser auditado apenas neste pedido.",
-  "admin/orders.details.pii-setup.no-pii-subtitle": "Browse orders without displaying personal information.",
-  "admin/orders.details.pii-setup.pii-all-orders": "On all orders",
-  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "View personal information and be audited on all orders.",
-  "admin/orders.details.pii-setup.modal-confirm": "Confirm",
-  "admin/orders.details.pii-setup.modal-cancel": "Cancel",
-  "admin/orders.details.trackingHint": "Delivery label"
+  "admin/orders.details.pii-setup.no-pii-subtitle": "Navegar por pedidos sem exibir dados pessoais.",
+  "admin/orders.details.pii-setup.pii-all-orders": "Em todos os pedidos",
+  "admin/orders.details.pii-setup.pii-all-orders-subtitle": "Ver dados pessoais e ser auditado em todos os pedidos.",
+  "admin/orders.details.pii-setup.modal-confirm": "Confirmar",
+  "admin/orders.details.pii-setup.modal-cancel": "Cancelar",
+  "admin/orders.details.trackingHint": "Etiqueta de entrega"
 }
