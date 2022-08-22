@@ -715,5 +715,6 @@
   "admin/orders.print.items-list.columns.price": "Preço",
   "admin/orders.print.items-list.columns.quantity": "Quant.",
   "admin/orders.print.items-list.columns.total-value": "Valor Total",
-  "admin/orders.print.header.title": "Pedido nº"
+  "admin/orders.print.header.title": "Pedido nº",
+  "teste.sheila": "New english test"
 }
